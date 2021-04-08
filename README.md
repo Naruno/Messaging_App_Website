@@ -1,2 +1,2 @@
-# Messaging_App.github.io
+# Messaging App Website
 Website for Messaging App.
